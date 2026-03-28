@@ -97,7 +97,11 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="mb-1 text-sm font-semibold tracking-wider uppercase text-slate-500">Phone</p>
+<<<<<<< HEAD
                                     <p className="text-lg font-bold text-slate-200">+94 77 835 6196</p>
+=======
+                                    <p className="text-lg font-bold text-slate-200">+94 74 084 0533</p>
+>>>>>>> 339938812121e46d983c281af6cddb0dac686c67
                                 </div>
                             </div>
 
@@ -119,7 +123,11 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="mb-1 text-sm font-semibold tracking-wider uppercase text-slate-500">Location</p>
+<<<<<<< HEAD
                                     <p className="font-bold text-slate-200 text-md">Wathurugama, Western Province</p>
+=======
+                                    <p className="font-bold text-slate-200 text-md">Gampaha, Sri Lanka</p>
+>>>>>>> 339938812121e46d983c281af6cddb0dac686c67
                                 </div>
                             </div>
                         </div>
