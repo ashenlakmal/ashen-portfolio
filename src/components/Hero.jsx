@@ -69,8 +69,8 @@ const Hero = () => {
 
                         {/*Glass Download Button */}
                         <a
-                            href="/Ashen-Lakmal-Full-Stack-Developer.pdf"
-                            download="Ashen_Lakmal_CV.pdf"
+                            href="/Ashen-Lakmal-Full-Stack-Developer CV.pdf"
+                            download="Ashen-Lakmal-Full-Stack-Developer CV.pdf"
                             className="w-full px-8 py-4 font-bold text-center text-blue-300 transition-all border rounded-full sm:w-auto bg-white/5 backdrop-blur-md border-white/10 hover:bg-white/10 hover:text-white"
                         >
                             Download CV
