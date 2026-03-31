@@ -107,7 +107,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="mb-1 text-sm font-semibold tracking-wider uppercase text-slate-500">Location</p>
-                                    <p className="font-bold text-slate-200 text-md">Wathurugama, Western Province</p>
+                                    <p className="font-bold text-slate-200 text-md">Gampaha,Sri Lanka.</p>
                                 </div>
                             </div>
                         </div>
