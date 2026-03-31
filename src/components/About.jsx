@@ -46,7 +46,7 @@ const About = () => {
 
                                     <h3 className="mb-2 text-2xl font-bold tracking-wide text-white">Education</h3>
                                     <p className="text-lg font-semibold text-blue-300">Bachelor of ICT (Hons)</p>
-                                    <p className="mt-1 mb-6 text-sm text-slate-400">Uva Wellassa University</p>
+                                    <p className="mt-1 mb-6 text-sm text-slate-400">Uva Wellassa University of Sri Lanka.</p>
 
                                     <div className="bg-white/5 border border-white/10 text-center py-4 rounded-xl shadow-[inset_0_0_20px_rgba(255,255,255,0.05)]">
                                         <p className="mb-1 text-xs tracking-widest uppercase text-slate-400">Current GPA</p>
